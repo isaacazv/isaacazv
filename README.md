@@ -17,8 +17,6 @@ Estou no início da minha jornada na tecnologia, com foco em crescer como desenv
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
