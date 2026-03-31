@@ -2,10 +2,17 @@
 
 **`🎓 Estudante de Ciência da Computação | SPTech`**
 
+# 👩🏻‍💻 isaacazv
+
+**`🎓 Estudante de Ciência da Computação | SPTech`**
+
 Me chamo Isaac Azevedo Pinheiro, tenho 18 anos e sou estudante de Ciência da Computação na SPTech. Tenho grande interesse por programação e tecnologia, sempre buscando evoluir minhas habilidades na área.
+
 Possuo prática em gestão de projetos, especialmente relacionados a dados, e venho desenvolvendo projetos próprios para aplicar os conhecimentos adquiridos na faculdade e em estudos complementares.
 
-estou no início da minha jornada na tecnologia, com foco em crescer como desenvolvedor e explorar áreas como dados e cibersegurança.
+🔗 Conecte-se comigo no LinkedIn: [isaacazv](https://www.linkedin.com/in/isaac-azevedo-041299341/?skipRedirect=true)
+
+Estou no início da minha jornada na tecnologia, com foco em crescer como desenvolvedor e explorar áreas como dados e cibersegurança.
 <p align="left">
     </a>
 </p>
